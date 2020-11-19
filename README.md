@@ -53,19 +53,19 @@ Low:  0xE2
 
 ### Firmware
 
-Projektverzeichnis: [HB-ES-PMSw1-Pl_GosundSP1](TBD)
+Projektverzeichnis: [HB-ES-PMSw1-Pl_GosundSP1](coming soon)
 
 Benötigt werden die Bibliotheken [AskSinPP](https://github.com/pa-pa/AskSinPP) aus dem master-Branch, sowie die [HLW8012](https://github.com/xoseperez/hlw8012), die [MightyCore](https://github.com/MCUdude/MightyCore), die [EnableInterrupt](https://github.com/GreyGnome/EnableInterrupt) und [Low-Power](https://github.com/rocketscream/Low-Power).
 
 
 # Bauanleitung
 
-TBD
+coming soon
 
 
 # Kalibrierung
 
-TBD
+coming soon
 
 
 # Bilder
