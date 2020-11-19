@@ -67,5 +67,5 @@ TBD
 
 
 # Bilder
-![Vorderseite](https://github.com/maxx3105/HB-ES-PMSw1-Pl_Gosund/blob/master/Bilder/Platine_Vorderseite_bestückt.jpg)
-![Rückseite](https://github.com/maxx3105/HB-ES-PMSw1-Pl_Gosund/blob/master/Bilder/Platine_Vorderseite_bestückt.jpg)
+![Vorderseite](https://github.com/maxx3105/HB-ES-PMSwX-Pl_Gosund/blob/main/HB-ES-PMSwX-Pl_Gosund_top.png)
+![Rückseite](https://github.com/maxx3105/HB-ES-PMSwX-Pl_Gosund/blob/main/HB-ES-PMSwX-Pl_Gosund_bottom.png)
