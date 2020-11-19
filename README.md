@@ -1,8 +1,9 @@
 # HB-ES-PMSwX-Pl_Gosund
-Umbau [Gosund SP211 und Baugleiche](https://www.gosund.com/download/smart_plug/128.html) zu HB-ES-PMSwX-Pl_SP1
+Umbau [Gosund SP211 und Baugleiche](https://www.gosund.com/download/smart_plug/128.html) zu HB-ES-PMSwX-Pl_SP1.
 
-Dies basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP) ,[Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und [Asselhead](https://github.com/Asselhead/Arduino-Pro-Mini-RF).
+Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP) ,[Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und [Asselhead](https://github.com/Asselhead/Arduino-Pro-Mini-RF).
 
+Angelehnt an das Projekt von [stan23](https://github.com/stan23/HM-ES-PMSw1-Pl_GosundSP1).
 
 
 # Hardware
