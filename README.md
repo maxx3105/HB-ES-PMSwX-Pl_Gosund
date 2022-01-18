@@ -69,5 +69,5 @@ coming soon
 
 
 # Bilder
-![Vorderseite](https://github.com/maxx3105/HB-ES-PMSwX-Pl_Gosund/blob/main/HB-ES-PMSwX-Pl_Gosund_top.png)
-![Rückseite](https://github.com/maxx3105/HB-ES-PMSwX-Pl_Gosund/blob/main/HB-ES-PMSwX-Pl_Gosund_bottom.png)
+![Vorderseite](https://github.com/maxx3105/HB-ES-PMSwX-Pl_Gosund/blob/main/HB-ES-PMSwX-Pl_Gosund_Top.png)
+![Rückseite](https://github.com/maxx3105/HB-ES-PMSwX-Pl_Gosund/blob/main/HB-ES-PMSwX-Pl_Gosund_Bottom.png)
