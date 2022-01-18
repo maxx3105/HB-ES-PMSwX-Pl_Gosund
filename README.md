@@ -1,5 +1,7 @@
 # HB-ES-PMSwX-Pl_Gosund
-Umbau [Gosund SP211 und Baugleiche](https://www.gosund.com/download/smart_plug/128.html) zu HB-ES-PMSwX-Pl_SP1.
+Umbau [Gosund SP112 und Baugleiche](https://gosund-deutschland.de/Gosund-SP112-Zwischenstecker-mit-2-x-USB-Typ-F-Schuko-WiFi) zu HB-ES-PMSw2-Pl_SP1.
+Umbau [Gosund SP211 und Baugleiche](https://de.gosund.com/products/gosund%E2%84%A2-smart-wlan-steckdose-sp211?spm=..product.header_1.1&spm_prev=..collection.collection_detail_1.1) zu HB-ES-PMSw2-Pl_SP211.
+Umbau [Gosund P1 3-fach Stecker und Baugleiche](https://de.gosund.com/products/gosund%E2%84%A2-smart-wlan-steckdosenleiste-p1?spm=..collection.collection_detail_1.1&spm_prev=..collection.header_1.1) zu HB-ES-PMSw3-Pl_P1.
 
 Dieses Projekt basiert auf der Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP) ,[Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP) und [Asselhead](https://github.com/Asselhead/Arduino-Pro-Mini-RF).
 
